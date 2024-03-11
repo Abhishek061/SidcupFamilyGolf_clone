@@ -1,5 +1,3 @@
-🚀 Exciting News! 🚀
-
 🌟 As I reflect on my journey in web development, I can't help but feel proud of how far I've come. 💻 It's been an incredible learning experience, filled with challenges, growth, and countless moments of inspiration.
 
 🎉 Today, I'm thrilled to share a project very close to my heart - the Sidcup Family Golf website! 🏌️‍♂️ This website holds a special place in my journey as it was one of the first projects I tackled when I was just starting to dive into the world of web development.
